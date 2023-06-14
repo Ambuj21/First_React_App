@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+.MainContainer {
+  background-color: #8c8c8c;
+}
+img {
+  width: 100px;
+  height: 100px;
+  padding-right: 10px;
+}
+
+.nav-bar {
+  background-color: #1b1b1b;
+  color: white;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.img-container {
+  color: #40cfff;
+  display: flex;
+  align-items: center;
+}
+.Containt {
+  padding: 10px;
+}
+
+.Containt ul {
+  color: #40cfff;
+  font-size: large;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.Containt span {
+  color: white;
+}
